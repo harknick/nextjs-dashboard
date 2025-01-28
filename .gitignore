@@ -1,0 +1,6 @@
+# OTHER #
+#########
+.lando.yml
+node_modules
+vendor/*/.git
+.DS_Store
